@@ -273,11 +273,11 @@ function init() {
   })
 
   importButton.addEventListener("click", function (event) {
-    return //todo
-
     // open file dialog
     const input = document.createElement('input');
-    input.type = 'json';
+    
+    input.type = 'file'; // Changed json to file
+    input.accept = '.json'; // Only json file allowed
 
     input.onchange = e => {
 
