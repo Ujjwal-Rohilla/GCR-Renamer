@@ -12,4 +12,4 @@ A ~Chrome~ Firefox extension made to rename Class Subject and Section names to w
 
 # Download
 
-<a href="[url](https://addons.mozilla.org/en-US/firefox/addon/gcr-renamer/)">Firefox Add-on Page</a> <i>Currently awaiting approval</i>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/gcr-renamer/">Firefox Add-on Page</a> <i>Currently awaiting approval</i>
