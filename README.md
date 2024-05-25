@@ -13,3 +13,8 @@ A Chromium and Firefox extension made to rename Subject and Section names to wha
 # Download
 [Chrome/Opera/Opera GX](https://chromewebstore.google.com/detail/gcr-renamer/enmbjdakofcbdjbamdfffndnancpdboc)   
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gcr-renamer/) *Currently awaiting approval*
+
+## Credits
+
+[rajdave69](https://github.com/Rajdave69) for the main extension  
+[Ujjwal-Rohilla](https://github.com/Ujjwal-Rohilla) for the Firefox port and bug fixes
