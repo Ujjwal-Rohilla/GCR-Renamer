@@ -4,7 +4,7 @@
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/enmbjdakofcbdjbamdfffndnancpdboc)
 # GCR Renamer
 
-A Chrome extension made to rename Class Subject and Section names to whatever you desire, in Google Classroom.
+A ~Chrome~ Firefox extension made to rename Class Subject and Section names to whatever you desire, in Google Classroom. Forked From Raj Dave to make this compatible with Firefox.
 
 ![Before](https://gcr.rajtech.me/img/before.png)
 
